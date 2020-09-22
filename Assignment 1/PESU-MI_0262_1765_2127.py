@@ -36,6 +36,8 @@ def get_entropy_of_attribute(df,attribute):
 			fract = float(num/den)
 			if(fract != 0):
 				entropy_feature += -fract*np.log2(fract)
+			else:
+				entropy_feature += -fract*np.log2(10**-7)
 		fract_val = den/len(df)
 		entropy_of_attribute += -fract_val*entropy_feature
 
