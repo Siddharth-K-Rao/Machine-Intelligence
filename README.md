@@ -27,3 +27,7 @@ few.
 
 In this assignment we are given a function called tri_traversal which implements three main
 algorithms which are A* search, Uniform Cost Search (UCS), Depth First Search (DFS).
+
+## Assignment 2 - Neural Networks from scratch
+To implement a neural network from scratch which will classify whether the patients will give birth to a Low Birth Weight child or not.
+Only NumPy has been used to implement this neural network and scikit learn for training and testing the data given.
