@@ -1,5 +1,8 @@
 # Machine-Intelligence
-Assignments done by Vignesh, Navneeth and I currently pursuing B.Tech CSE at PES University
+## Team
+[Siddharth K Rao](https://github.com/Siddharth-K-Rao)<br>
+[Navneeth S Holla](https://github.com/NavneethSH)<br>
+[Vignesh V Anweri](https://github.com/vignesh-11)
 
 ## Assignment 1 - Decision Tree Classifier
 Decision Trees are one of the easiest and popular classification algorithms to understand and
